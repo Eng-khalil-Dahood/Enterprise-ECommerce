@@ -1,7 +1,7 @@
-﻿using ECommerce.Application.DTOs;
-using ECommerce.Persistence.Data;
-
-namespace ECommerce.Application.Services
+﻿using ECommerce.Persistence.Data; 
+using ECommerce.Domain;
+using ECommerce.Application.DTOs;
+namespace ECommerce.Persistence.Services
 {
     public class DashboardService
     {
